@@ -1,0 +1,6 @@
+{
+  "name": "Makwana_Hitu.07",
+  "description": "Permanent 50GB local video vault and live RTMP streaming studio for YouTube, Facebook, and custom RTMP servers using original video audio only.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Makwana_Hitu.07</string>
+    <string name="notif_channel_stream_name">Live Broadcast Service</string>
+    <string name="notif_channel_stream_desc">Keeps live RTMP video streaming active in the background and when screen is locked.</string>
+    <string name="notif_channel_import_name">Video Import</string>
+    <string name="notif_channel_import_desc">Shows progress while importing large videos into app storage.</string>
+    <string name="action_stop_stream">Stop Stream</string>
+    <string name="action_pause_stream">Pause</string>
+    <string name="action_resume_stream">Resume</string>
+</resources>
